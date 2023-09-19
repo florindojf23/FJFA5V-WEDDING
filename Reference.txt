@@ -1,0 +1,10 @@
+1. https://getbootstrap.com/
+2. https://fonts.google.com/specimen/Work+Sans?query=work+sans (ba Letra Sira)
+3. https://vincentloy.github.io/simplyCountdown.js/ (Library Simplycountdown)
+4. https://cssgenerator.org/box-shadow-css-generator.html
+5. https://picsum.photos/
+6. https://trvswgnr.github.io/bs5-lightbox/(Library LightBox)
+7. https://github.com/levinunnink/html-form-to-google-sheet
+8. https://fjfa5v-wedding.disqus.com/admin/install/platforms/universalcode/ (Kolum Komentar)
+
+https://script.google.com/macros/s/AKfycbwk4Vryx9o7MwEHxwb4_-K5xqqeKqzk6EcW06HGY-NS504GVo6uUxLOUxPy2jkHPfuN9w/exec
